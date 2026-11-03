@@ -259,6 +259,10 @@ public:
         };
         return dfs(root, 0);
     }
+};dfs(root->left, s) || dfs(root->right, s);
+        };
+        return dfs(root, 0);
+    }
 };, 0);
     }
 };
